@@ -1,0 +1,8 @@
+product_id,stage,material,qty_per_unit
+SHA,MAKE_BOTTLE,plastic_resin,1.0
+SHA,MIX_BULK,shampoo_base,0.35
+SHA,MIX_BULK,fragrance,0.02
+SHA,MIX_BULK,dye,0.01
+SHA,CAP,caps,1.0
+SHA,LABEL,labels,1.0
+SHA,PACK,cartons,0.0417
