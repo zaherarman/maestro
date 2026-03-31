@@ -39,4 +39,11 @@ class Operation:
     processing_time: float
     material_requirements: dict[str, float]
     status: str="unscheduled"
+    
+@dataclass
+class TraceEvent:
+    operation_id: str
+    timestamp: float
+    event_type: str
+    message: str
 
